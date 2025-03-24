@@ -16,11 +16,11 @@
 </div>
 <div id="header" align="center">
   <div id="badges">
-  <a href="mailto:kumarrobind386@gmail.com">
+  <a href="sk.gec.kr@gmail.com">
     <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail Badge"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/kumarrobind386">
+  <a href="https://www.linkedin.com/in/sanuj-kumar-5472452a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
@@ -45,11 +45,11 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=k-rd&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SanujA578&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=k-rd&theme=radical" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=SanujA578&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
