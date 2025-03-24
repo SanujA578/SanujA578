@@ -45,11 +45,11 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=k-rd&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SanujA578&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=k-rd&theme=radical" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=SanujA578&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -61,7 +61,7 @@
 
 
     
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k-rd&theme=rogue)](https://github.com/k-rd/github-readme-activity-graph)
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanujA578&theme=rogue)](https://github.com/SanujA578/github-readme-activity-graph)
 
 
 
@@ -72,7 +72,7 @@
 
 <div>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=k-rd&theme=radical&row=2&column=4&margin-w=50&margin-h=15)](https://github.com/k-rd/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanujA578&theme=radical&row=2&column=4&margin-w=50&margin-h=15)](https://github.com/SanujA578/github-profile-trophy)
 </div>
 
 </div>
