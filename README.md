@@ -9,9 +9,9 @@
 <br>
 <div align="center">
   <h2> Visitor's Count</h2>
-<img src="https://komarev.com/ghpvc/?username=k-rd&label=Profile%20views&color=0e75b6&style=flat" alt="k-rd"/>
+<img src="https://komarev.com/ghpvc/?username=SanujA578&label=Profile%20views&color=0e75b6&style=flat" alt="SanujA578"/>
 
-![Visitor Count](https://profile-counter.glitch.me/{k-rd}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{SanujA578}/count.svg) 
 
 </div>
 <div id="header" align="center">
