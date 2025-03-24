@@ -19,7 +19,9 @@
   <a href="sk.gec.kr@gmail.com">
     <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail Badge"/>
   </a>
-
+  <a href="https://www.instagram.com/sanuj_sharma_s57?igsh=NWs5MmRzOXF6N3V1">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="mail Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/sanuj-kumar-5472452a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
