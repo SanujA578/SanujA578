@@ -61,7 +61,7 @@
 
 
     
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k-rd&theme=rogue)](https://github.com/k-rd/github-readme-activity-graph)
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanujA578&theme=rogue)](https:/SanujA578/github.com//github-readme-activity-graph)
 
 
 
@@ -72,19 +72,19 @@
 
 <div>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=k-rd&theme=radical&row=2&column=4&margin-w=50&margin-h=15)](https://github.com/k-rd/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanujA578&theme=radical&row=2&column=4&margin-w=50&margin-h=15)](https://github.com/SanujA578/github-profile-trophy)
 </div>
 
 </div>
 </div>
 
-![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
+![line](https://github.com/SanujA578/SanujA578/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
 
 <div align="center"> 
   <h2>Languages and Tools:</h2>
    
-   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,javascript,bash,bootstrap,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,bootstrap,github,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
 
 
@@ -93,12 +93,12 @@
     <tr>
       <h2>Top Programming Languages</h2>
       <td align="center">
-        <a href="https://github.com/K-RD/K-RD/assets/108448353/392872fe-2280-4dec-8b2c-1586656d882b">
+        <a href="https://github.com/SanujA578/SanujA578/assets/108448353/392872fe-2280-4dec-8b2c-1586656d882b">
           <img src="https://github.com/K-RD/K-RD/assets/108448353/392872fe-2280-4dec-8b2c-1586656d882b" alt="pixel-neon" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/k-rd/github-readme-stats">
+        <a href="https://github.com/SanujA578/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-rd&layout=compact&bg_color=00000000" alt="Top Langs" />
         </a>
       </td>
