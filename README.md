@@ -1,26 +1,26 @@
-![profile](https://github.com/K-RB/K-RB/assets/108448353/4b617ec2-9f3c-4c96-97e9-70876406a3a8)
+![profile](https://github.com/K-RD/K-RD/assets/108448353/4b617ec2-9f3c-4c96-97e9-70876406a3a8)
 
 
-![line](https://github.com/SanujA578/SanujA578/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
 
-![line](https://github.com/SanujA578/SanujA578/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
 <br>
 <div align="center">
   <h2> Visitor's Count</h2>
-<img src="https://komarev.com/ghpvc/?username=SanujA578&label=Profile%20views&color=0e75b6&style=flat" alt="SanujA578"/>
+<img src="https://komarev.com/ghpvc/?username=k-rd&label=Profile%20views&color=0e75b6&style=flat" alt="k-rd"/>
 
-![Visitor Count](https://profile-counter.glitch.me/{SanujA578}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{k-rd}/count.svg) 
 
 </div>
 <div id="header" align="center">
   <div id="badges">
-  <a href="mailto:sk.gec.kr@gmail.com">
+  <a href="mailto:kumarrobind386@gmail.com">
     <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="mail Badge"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/sanuj-kumar-5472452a8/">
+  <a href="https://www.linkedin.com/in/kumarrobind386">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://wa.me/916205631578">
+  <a href="https://wa.me/919279663593">
     <img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   </div>
@@ -45,11 +45,11 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SanujA578&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=k-rd&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=SanujA578&theme=radical" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=k-rd&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -61,7 +61,7 @@
 
 
     
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanujA578&theme=rogue)](https://github.com/SanujA578/github-readme-activity-graph)
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=k-rd&theme=rogue)](https://github.com/k-rd/github-readme-activity-graph)
 
 
 
@@ -72,19 +72,19 @@
 
 <div>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=SanujA578&theme=radical&row=2&column=4&margin-w=50&margin-h=15)](https://github.com/SanujA578/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=k-rd&theme=radical&row=2&column=4&margin-w=50&margin-h=15)](https://github.com/k-rd/github-profile-trophy)
 </div>
 
 </div>
 </div>
 
-![line](https://github.com/SanujA578/SanujA578/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
 
 <div align="center"> 
   <h2>Languages and Tools:</h2>
    
-   [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,bootstrap,githu,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,javascript,bash,bootstrap,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
 
 
@@ -93,8 +93,8 @@
     <tr>
       <h2>Top Programming Languages</h2>
       <td align="center">
-        <a href="https://github.com/SanujA578/SanujA578/assets/108448353/392872fe-2280-4dec-8b2c-1586656d882b">
-          <img src="https://github.com/SanujA578/SanujA578/assets/108448353/392872fe-2280-4dec-8b2c-1586656d882b" alt="pixel-neon" />
+        <a href="https://github.com/K-RD/K-RD/assets/108448353/392872fe-2280-4dec-8b2c-1586656d882b">
+          <img src="https://github.com/K-RD/K-RD/assets/108448353/392872fe-2280-4dec-8b2c-1586656d882b" alt="pixel-neon" />
         </a>
       </td>
       <td align="center">
@@ -106,9 +106,9 @@
   </table>
 </div>
 
-![line](https://github.com/SanujA578/SanujA578/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
-![line](https://github.comSanujA578/SanujA578/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
 <div align="center">
   
@@ -120,7 +120,7 @@
   
 </div>
 
-![line](https://github.com/SanujA578/SanujA578/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
+![line](https://github.com/K-RD/K-RD/assets/108448353/a5296ebe-ab0b-4339-bb71-8ac6fbd55db4)
 
 <!-- Old Code -->
 <!--
